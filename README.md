@@ -2,10 +2,8 @@
 
 ## My toolbox
 [comment]: #https://profile-readme-generator.com/
-[<img height="50" width="50" src="https://skillicons.dev/icons?i=bash"/>](/ "Bash")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=css"/>](/ "CSS")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=html"/>](/ "HTML")
-[<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>](/ "Pandas")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=py"/>](/ "Python")
 [<img height="50" width="50" src="https://skillicons.dev/icons?i=md"/>](/ "Markdown")
 
